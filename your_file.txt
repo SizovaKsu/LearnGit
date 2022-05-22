@@ -2,3 +2,4 @@
 "line from github" 
 "git." 
 'Third line' 
+"after stash" 

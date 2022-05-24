@@ -3,3 +3,5 @@
 "git." 
 'Third line' 
 "after stash" 
+"Patch changes"  
+"Line to branch" 
